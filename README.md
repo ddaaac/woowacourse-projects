@@ -25,10 +25,11 @@
 
 |     Project      |                          Repository                          |                                                       Code Review                                                        |
 | :--------------: | :----------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------: |
-| 자동차 경주 게임 | [java-racingcar](https://github.com/kimhodol/java-racingcar) |                          [Pull Request](https://github.com/woowacourse/java-racingcar/pull/69)                           |
-|       로또       |     [java-lotto](https://github.com/kimhodol/java-lotto)     |  [Step 1](https://github.com/woowacourse/java-lotto/pull/114) / [2](https://github.com/woowacourse/java-lotto/pull/169)  |
-|      블랙잭      | [java-blackjack](https://github.com/kimhodol/java-blackjack) | [Step 1](https://github.com/woowacourse/java-blackjack/pull/19) / [2](https://github.com/woowacourse/java-lotto/pull/86) |
-|       체스       |     [java-chess](https://github.com/kimhodol/java-chess)     |  [Step 1](https://github.com/woowacourse/java-chess/pull/68) / [2](https://github.com/woowacourse/java-chess/pull/109)   |
+| 문자열 계산기 | [java-racingcar](https://github.com/fucct/java-calculator) |                          [Pull Request](https://github.com/woowacourse/java-calculator/pull/8)                           |
+| 자동차 경주 게임 | [java-racingcar](https://github.com/fucct/java-racingcar) |                          [Pull Request](https://github.com/woowacourse/java-racingcar/pull/86)                           |
+|       로또       |     [java-lotto](https://github.com/fucct/java-lotto)     |  [Step 1](https://github.com/woowacourse/java-lotto/pull/129) / [2](https://github.com/woowacourse/java-lotto/pull/168)  |
+|      블랙잭      | [java-blackjack](https://github.com/fucct/java-blackjack) | [Step 1](https://github.com/woowacourse/java-blackjack/pull/13) / [2](https://github.com/woowacourse/java-blackjack/pull/66) |
+|       체스       |     [java-chess](https://github.com/fucct/java-chess)     |  [Step 1](https://github.com/woowacourse/java-chess/pull/52) / [2](https://github.com/woowacourse/java-chess/pull/129)   |
 
 <br/>
 
@@ -49,8 +50,8 @@
 
 |       Project        |                                        Repository                                         |                                                                                                            Code Review                                                                                                             |
 | :------------------: | :---------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-|         체스         |                    [jwp-chess](https://github.com/kimhodol/jwp-chess)                     | [Step 1](https://github.com/woowacourse/jwp-chess/pull/2) / [2](https://github.com/woowacourse/jwp-chess/pull/17) / [3](https://github.com/woowacourse/jwp-chess/pull/60) / [4](https://github.com/woowacourse/jwp-chess/pull/123) |
-|   지하철 정보 관리   |            [atdd-subway-admin](https://github.com/kimhodol/atdd-subway-admin)             |                                                                              [Pull Request](https://github.com/woowacourse/atdd-subway-admin/pull/30)                                                                              |
+|         체스         |                    [jwp-chess](https://github.com/fucct/jwp-chess)                     | [Step 1](https://github.com/woowacourse/jwp-chess/pull/12) / [2](https://github.com/woowacourse/jwp-chess/pull/73) / [3](https://github.com/woowacourse/jwp-chess/pull/159) / [4](https://github.com/woowacourse/jwp-chess/pull/173) |
+|   지하철 정보 관리   |            [atdd-subway-admin](https://github.com/kimhodol/atdd-subway-admin)             |                                                                              [Pull Request](https://github.com/woowacourse/atdd-subway-admin/pull/5)                                                                              |
 |   지하철 경로 조회   |             [atdd-subway-path](https://github.com/kimhodol/atdd-subway-path)              |                                                                               [Pull Request](https://github.com/woowacourse/atdd-subway-path/pull/1)                                                                               |
 | 지하철 경로 즐겨찾기 |         [atdd-subway-favorite](https://github.com/kimhodol/atdd-subway-favorite)          |                                                                            [Pull Request](https://github.com/woowacourse/atdd-subway-favorite/pull/10)                                                                             |
 |    사용자 이야기     | [woowa-userstory-2020](https://github.com/kimhodol/woowa-userstory-2020/tree/woonjangahn) |                                                                             [Pull Request](https://github.com/woowacourse/woowa-userstory-2020/pull/1)                                                                             |
