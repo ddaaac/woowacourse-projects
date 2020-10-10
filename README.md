@@ -51,10 +51,10 @@
 |       Project        |                                        Repository                                         |                                                                                                            Code Review                                                                                                             |
 | :------------------: | :---------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 |         체스         |                    [jwp-chess](https://github.com/fucct/jwp-chess)                     | [Step 1](https://github.com/woowacourse/jwp-chess/pull/12) / [2](https://github.com/woowacourse/jwp-chess/pull/73) / [3](https://github.com/woowacourse/jwp-chess/pull/159) / [4](https://github.com/woowacourse/jwp-chess/pull/173) |
-|   지하철 정보 관리   |            [atdd-subway-admin](https://github.com/kimhodol/atdd-subway-admin)             |                                                                              [Pull Request](https://github.com/woowacourse/atdd-subway-admin/pull/5)                                                                              |
-|   지하철 경로 조회   |             [atdd-subway-path](https://github.com/kimhodol/atdd-subway-path)              |                                                                               [Pull Request](https://github.com/woowacourse/atdd-subway-path/pull/1)                                                                               |
-| 지하철 경로 즐겨찾기 |         [atdd-subway-favorite](https://github.com/kimhodol/atdd-subway-favorite)          |                                                                            [Pull Request](https://github.com/woowacourse/atdd-subway-favorite/pull/10)                                                                             |
-|    사용자 이야기     | [woowa-userstory-2020](https://github.com/kimhodol/woowa-userstory-2020/tree/woonjangahn) |                                                                             [Pull Request](https://github.com/woowacourse/woowa-userstory-2020/pull/1)                                                                             |
+|   지하철 정보 관리   |            [atdd-subway-admin](https://github.com/fucct/atdd-subway-admin)             |                                                                              [Pull Request](https://github.com/woowacourse/atdd-subway-admin/pull/5)                                                                              |
+|   지하철 경로 조회   |             [atdd-subway-path](https://github.com/fucct/atdd-subway-path)              |                                                                               [Pull Request](https://github.com/woowacourse/atdd-subway-path/pull/29)                                                                               |
+| 지하철 경로 즐겨찾기 |         [atdd-subway-favorite](https://github.com/fucct/atdd-subway-favorite)          |                                                                            [Pull Request](https://github.com/woowacourse/atdd-subway-favorite/pull/26) / [With JPA](https://github.com/woowacourse/atdd-subway-favorite/pull/58)                                                                              |
+
 
 <br/>
 
@@ -71,7 +71,7 @@
 
 ### 진행 미션
 
-#### 👨‍💻 [Slide.md](https://slidemd.com) : Beautiful, Minimal Slides with Markdown
+#### 👨‍💻 [Peloton API Docs](https://dev.peloton.ga/docs/api-guide.html) 
 
 **서비스**
 
@@ -79,18 +79,16 @@
 
 **Github Repository**
 
-- [2020-zeze](https://github.com/woowacourse-teams/2020-zeze)
-- [Issues](https://github.com/woowacourse-teams/2020-zeze/issues)
-- [Pull Requests](https://github.com/woowacourse-teams/2020-zeze/pulls)
+- [14층 녀석들](https://github.com/woowacourse-teams/2020-14f-guys)
+- [Issues](https://github.com/woowacourse-teams/2020-14f-guys/issues)
+- [Pull Requests](https://github.com/woowacourse-teams/2020-14f-guys/pulls)
 
 **Demo**
 
-- [프로젝트 기획](https://github.com/woowacourse-teams/2020-zeze/wiki/Project-Plan) / [팀 문화](https://github.com/woowacourse-teams/2020-zeze/wiki/Team-Culture)
-- [1차 데모 영상: 팀 문화 및 이슈 발표](https://www.youtube.com/watch?v=XcKIlsWAd10)
-- [2차 데모 영상: 프로토타입 및 빌드/배포 자동화 발표](https://www.youtube.com/watch?v=VLnIZ6oGKbs)
-- [4차 데모 영상: 8주간의 팀 프로젝트 회고](https://www.youtube.com/watch?v=KVNRJ9ONM1Y)
-- [홍보 영상](https://www.youtube.com/watch?v=ZcFQoPsrsRk)
-- [프로그래밍 커뮤니티 <생활코딩> 홍보 게시물 (Facebook)](https://www.facebook.com/groups/codingeverybody/?multi_permalinks=4555458237828010)
+- [1차 데모 영상: 팀 문화 및 이슈 발표](https://www.youtube.com/watch?v=XMETX19bo3o)
+- [2차 데모 영상: 프로토타입 및 빌드/배포 자동화 발표](https://www.youtube.com/watch?v=q2NF6tJEZOQ)
+- [4차 데모 영상: 8주간의 팀 프로젝트 회고](https://www.youtube.com/watch?v=qLrSQ_Yi_Ms&t=46s)
+- [홍보 영상](https://www.youtube.com/watch?v=YkgeXlQC_ak)
 
 <br/>
 
@@ -120,18 +118,9 @@
 
 | Level |                 Topic                  |                                                                                                                                       Post                                                                                                                                        |
 | :---: | :------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-|   1   |      우아한테크코스 한 달 생활기       |                                              [우테코 한 달 생활기](https://github.com/kimhodol/woowa-writing-2/blob/kimhodol/%5BLevel%201%5D%20%EC%9A%B0%ED%85%8C%EC%BD%94%20%ED%95%9C%20%EB%8B%AC%20%EC%83%9D%ED%99%9C%EA%B8%B0.md)                                              |
-|   2   | 우테코에서 찾은 나만의 효과적인 학습법 | [프로그래밍을 배운지는 3년째 됩니다만](https://github.com/kimhodol/woowa-writing-2/blob/kimhodol/%5BLevel%202%5D%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%EC%9D%84%20%EB%B0%B0%EC%9A%B4%EC%A7%80%EB%8A%94%203%EB%85%84%EC%A7%B8%20%EB%90%A9%EB%8B%88%EB%8B%A4%EB%A7%8C.md) |
-|   3   |      팀 프로젝트가 나에게 남긴 것      |          [팀을 효과적으로 버리는 5가지 방법](https://github.com/kimhodol/woowa-writing-2/blob/kimhodol/%5BLevel%203%5D%20%ED%8C%80%EC%9D%84%20%ED%9A%A8%EA%B3%BC%EC%A0%81%EC%9C%BC%EB%A1%9C%20%EB%B2%84%EB%A6%AC%EB%8A%94%205%EA%B0%80%EC%A7%80%20%EB%B0%A9%EB%B2%95.md)          |
+|   1   |      우아한테크코스 한 달 생활기       |                                              [Link](https://github.com/fucct/woowa-writing-2/blob/fucct/writing.md)                                              |
+|   2   | 우테코에서 찾은 나만의 효과적인 학습법 | [Link](https://github.com/fucct/woowa-writing-2/blob/master/README.md) |
+|   3   |      팀 프로젝트가 나에게 남긴 것      |          [Link](https://github.com/fucct/woowa-writing-2/blob/docs/woowa-writing-3/writing3.md)          |
 
 <br/>
 
-## 📹 Youtube
-
-### 우테코 인터뷰 챌린지
-
-[![Alt text](https://img.youtube.com/vi/8VvfJyYCEKE/0.jpg)](https://www.youtube.com/watch?v=8VvfJyYCEKE)
-
-### 테코톡
-
-- coming soon...
