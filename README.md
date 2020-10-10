@@ -108,7 +108,9 @@
 
 ### 진행 미션
 
-- comming soon...
+|     Project      |                          Repository                          |                                                       Code Review                                                        |
+| :--------------: | :----------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------: |
+| 웹 애플리케이션 서버 | [jwp-was](https://github.com/fucct/jwp-was) |                          [Step 1](https://github.com/woowacourse/jwp-was/pull/129) / [Step 2](https://github.com/woowacourse/jwp-was/pull/139)                           |
 
 <br/>
 
