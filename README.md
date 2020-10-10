@@ -71,11 +71,7 @@
 
 ### 진행 미션
 
-#### 👨‍💻 [Peloton API Docs](https://dev.peloton.ga/docs/api-guide.html) 
-
-**서비스**
-
-- [Slide.md](https://slidemd.com)
+#### 👨‍💻 [Peloton](https://dev.peloton.ga/docs/api-guide.html) 
 
 **Github Repository**
 
