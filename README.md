@@ -25,11 +25,11 @@
 
 |     Project      |                          Repository                          |                                                       Code Review                                                        |
 | :--------------: | :----------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------: |
-| 문자열 계산기 | [java-racingcar](https://github.com/fucct/java-calculator) |                          [Pull Request](https://github.com/woowacourse/java-calculator/pull/8)                           |
-| 자동차 경주 게임 | [java-racingcar](https://github.com/fucct/java-racingcar) |                          [Pull Request](https://github.com/woowacourse/java-racingcar/pull/86)                           |
-|       로또       |     [java-lotto](https://github.com/fucct/java-lotto)     |  [Step 1](https://github.com/woowacourse/java-lotto/pull/129) / [2](https://github.com/woowacourse/java-lotto/pull/168)  |
-|      블랙잭      | [java-blackjack](https://github.com/fucct/java-blackjack) | [Step 1](https://github.com/woowacourse/java-blackjack/pull/13) / [2](https://github.com/woowacourse/java-blackjack/pull/66) |
-|       체스       |     [java-chess](https://github.com/fucct/java-chess)     |  [Step 1](https://github.com/woowacourse/java-chess/pull/52) / [2](https://github.com/woowacourse/java-chess/pull/129)   |
+| 문자열 계산기 | [java-racingcar](https://github.com/ddaaac/java-calculator) |                          [Pull Request](https://github.com/woowacourse/java-calculator/pull/35)                           |
+| 자동차 경주 게임 | [java-racingcar](https://github.com/ddaaac/java-racingcar) |                          [Pull Request](https://github.com/woowacourse/java-racingcar/pull/85)                           |
+|       로또       |     [java-lotto](https://github.com/ddaaac/java-lotto)     |  [Step 1](https://github.com/woowacourse/java-lotto/pull/137) / [2](https://github.com/woowacourse/java-lotto/pull/189)  |
+|      블랙잭      | [java-blackjack](https://github.com/ddaaac/java-blackjack) | [Step 1](https://github.com/woowacourse/java-blackjack/pull/8) / [2](https://github.com/woowacourse/java-blackjack/pull/64) |
+|       체스       |     [java-chess](https://github.com/ddaaac/java-chess)     |  [Step 1](https://github.com/woowacourse/java-chess/pull/50) / [2](https://github.com/woowacourse/java-chess/pull/112)   |
 
 <br/>
 
@@ -50,10 +50,10 @@
 
 |       Project        |                                        Repository                                         |                                                                                                            Code Review                                                                                                             |
 | :------------------: | :---------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-|         체스         |                    [jwp-chess](https://github.com/fucct/jwp-chess)                     | [Step 1](https://github.com/woowacourse/jwp-chess/pull/12) / [2](https://github.com/woowacourse/jwp-chess/pull/73) / [3](https://github.com/woowacourse/jwp-chess/pull/159) / [4](https://github.com/woowacourse/jwp-chess/pull/173) |
-|   지하철 정보 관리   |            [atdd-subway-admin](https://github.com/fucct/atdd-subway-admin)             |                                                                              [Pull Request](https://github.com/woowacourse/atdd-subway-admin/pull/5)                                                                              |
-|   지하철 경로 조회   |             [atdd-subway-path](https://github.com/fucct/atdd-subway-path)              |                                                                               [Pull Request](https://github.com/woowacourse/atdd-subway-path/pull/29)                                                                               |
-| 지하철 경로 즐겨찾기 |         [atdd-subway-favorite](https://github.com/fucct/atdd-subway-favorite)          |                                                                            [Pull Request](https://github.com/woowacourse/atdd-subway-favorite/pull/26) / [With JPA](https://github.com/woowacourse/atdd-subway-favorite/pull/58)                                                                              |
+|         체스         |                    [jwp-chess](https://github.com/ddaaac/jwp-chess)                     | [Step 1](https://github.com/woowacourse/jwp-chess/pull/3) / [2](https://github.com/woowacourse/jwp-chess/pull/48) / [3](https://github.com/woowacourse/jwp-chess/pull/61) / [4](https://github.com/woowacourse/jwp-chess/pull/124) |
+|   지하철 정보 관리   |            [atdd-subway-admin](https://github.com/ddaaac/atdd-subway-admin)             |                                                                              [Pull Request](https://github.com/woowacourse/atdd-subway-admin/pull/27)                                                                              |
+|   지하철 경로 조회   |             [atdd-subway-path](https://github.com/ddaaac/atdd-subway-path)              |                                                                               [Pull Request](https://github.com/woowacourse/atdd-subway-path/pull/4)                                                                               |
+| 지하철 경로 즐겨찾기 |         [atdd-subway-favorite](https://github.com/ddaaac/atdd-subway-favorite)          |                                                                            [Pull Request](https://github.com/woowacourse/atdd-subway-favorite/pull/27)                 |
 
 
 <br/>
@@ -106,7 +106,7 @@
 
 |     Project      |                          Repository                          |                                                       Code Review                                                        |
 | :--------------: | :----------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------: |
-| 웹 애플리케이션 서버 | [jwp-was](https://github.com/fucct/jwp-was) |                          [Step 1](https://github.com/woowacourse/jwp-was/pull/129) / [Step 2](https://github.com/woowacourse/jwp-was/pull/139)                           |
+| 웹 애플리케이션 서버 | [jwp-was](https://github.com/ddaaac/jwp-was) |                          [Step 1](https://github.com/woowacourse/jwp-was/pull/100) / [Step 2](https://github.com/woowacourse/jwp-was/pull/130)                           |
 
 <br/>
 
@@ -116,9 +116,9 @@
 
 | Level |                 Topic                  |                                                                                                                                       Post                                                                                                                                        |
 | :---: | :------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-|   1   |      우아한테크코스 한 달 생활기       |                                              [Link](https://github.com/fucct/woowa-writing-2/blob/fucct/writing.md)                                              |
-|   2   | 우테코에서 찾은 나만의 효과적인 학습법 | [Link](https://github.com/fucct/woowa-writing-2/blob/master/README.md) |
-|   3   |      팀 프로젝트가 나에게 남긴 것      |          [Link](https://github.com/fucct/woowa-writing-2/blob/docs/woowa-writing-3/writing3.md)          |
+|   1   |      우아한테크코스 한 달 생활기       |                                              [Link](https://github.com/woowacourse/woowa-writing-2/pull/25)                                              |
+|   2   | 우테코에서 찾은 나만의 효과적인 학습법 | [Link](https://github.com/woowacourse/woowa-writing-2/pull/63) |
+|   3   |      팀 프로젝트가 나에게 남긴 것      |          [Link](https://github.com/ddaaac/woowa-writing-2/blob/master/README.md)          |
 
 <br/>
 
